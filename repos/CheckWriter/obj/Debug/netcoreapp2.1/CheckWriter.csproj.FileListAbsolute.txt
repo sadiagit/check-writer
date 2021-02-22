@@ -1,0 +1,14 @@
+C:\Users\sadia.boksh\source\repos\CheckWriter\bin\Debug\netcoreapp2.1\CheckWriter.deps.json
+C:\Users\sadia.boksh\source\repos\CheckWriter\bin\Debug\netcoreapp2.1\CheckWriter.runtimeconfig.json
+C:\Users\sadia.boksh\source\repos\CheckWriter\bin\Debug\netcoreapp2.1\CheckWriter.runtimeconfig.dev.json
+C:\Users\sadia.boksh\source\repos\CheckWriter\bin\Debug\netcoreapp2.1\CheckWriter.dll
+C:\Users\sadia.boksh\source\repos\CheckWriter\bin\Debug\netcoreapp2.1\CheckWriter.pdb
+C:\Users\sadia.boksh\source\repos\CheckWriter\obj\Debug\netcoreapp2.1\CheckWriter.csprojAssemblyReference.cache
+C:\Users\sadia.boksh\source\repos\CheckWriter\obj\Debug\netcoreapp2.1\CheckWriter.csproj.CoreCompileInputs.cache
+C:\Users\sadia.boksh\source\repos\CheckWriter\obj\Debug\netcoreapp2.1\CheckWriter.RazorAssemblyInfo.cache
+C:\Users\sadia.boksh\source\repos\CheckWriter\obj\Debug\netcoreapp2.1\CheckWriter.RazorAssemblyInfo.cs
+C:\Users\sadia.boksh\source\repos\CheckWriter\obj\Debug\netcoreapp2.1\CheckWriter.AssemblyInfoInputs.cache
+C:\Users\sadia.boksh\source\repos\CheckWriter\obj\Debug\netcoreapp2.1\CheckWriter.AssemblyInfo.cs
+C:\Users\sadia.boksh\source\repos\CheckWriter\obj\Debug\netcoreapp2.1\CheckWriter.RazorTargetAssemblyInfo.cache
+C:\Users\sadia.boksh\source\repos\CheckWriter\obj\Debug\netcoreapp2.1\CheckWriter.dll
+C:\Users\sadia.boksh\source\repos\CheckWriter\obj\Debug\netcoreapp2.1\CheckWriter.pdb
